@@ -1,2 +1,3 @@
-# Wp-thema
-http://26433.hosts2.ma-cloud.nl/wordpress/
+# themaTinxian
+
+Werkende link: https://www.school.tinxian.nl/
